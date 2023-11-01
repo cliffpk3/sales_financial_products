@@ -36,7 +36,7 @@ We observe that the state with the highest sales is located in the Southeast reg
 <h4>4.2 The Southeast region has the highest sales volume, but the relative profit margin is not significant:</h4>
 Although the Southeast region generates the most sales, the relative profitability, in comparison to other regions, is not significantly higher.
 
-<h2>4.3 With the exception of Bahia, there is a balance in terms of relative profitability among states in Brazil:</h2>
+<h4>4.3 With the exception of Bahia, there is a balance in terms of relative profitability among states in Brazil:</h4>
 Most states, except Bahia, exhibit a relatively balanced level of profitability in relation to the sales of financial products.
 
 <h2>5. Conclusion:</h2>
