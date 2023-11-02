@@ -36,9 +36,7 @@ We observe that the state with the highest sales is located in the Southeast reg
 
 <h4>4.2 The Southeast region has the highest sales volume, but the relative profit margin is not significant:</h4>
 Although the Southeast region generates the most sales, the relative profitability, in comparison to other regions, is not significantly higher.
-
-<h4>4.3 With the exception of Bahia, there is a balance in terms of relative profitability among states in Brazil:</h4>
-Most states, except Bahia, exhibit a relatively balanced level of profitability in relation to the sales of financial products.
+<img align="center" alt="4_1" src="https://github.com/cliffpk3/sales_financial_products/blob/main/img/42.png" />
 
 <h2>5. Conclusion:</h2>
 In conclusion, this data visualization project provides a comprehensive overview of sales and profit by state and region in the financial products sector. While the Southeast region leads in sales, the actual profitability may not align with the sales figures. This project aims to facilitate data-driven decision-making in the financial industry by providing insights into the most and least profitable states and regions in Brazil. Further analysis and actions can be taken based on the insights gained from this dashboard.
