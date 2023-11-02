@@ -32,6 +32,7 @@ Upon analyzing the data and the dashboard, the following business insights are d
 
 <h4>4.1 The primary state in terms of sales in Brazil is in the Southeast:</h4>
 We observe that the state with the highest sales is located in the Southeast region.
+<img align="center" alt="4_1" src="https://github.com/cliffpk3/sales_financial_products/blob/main/img/41.png" />
 
 <h4>4.2 The Southeast region has the highest sales volume, but the relative profit margin is not significant:</h4>
 Although the Southeast region generates the most sales, the relative profitability, in comparison to other regions, is not significantly higher.
