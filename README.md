@@ -1,3 +1,5 @@
+Access Dashboard: https://encurtador.com.br/dko28
+
 <h2>1 Business Problem:</h2>
 The business problem at hand is to gain insights into the sales and profitability of financial products in different states and regions of Brazil. The primary objective is to identify which states and regions are the most profitable and which may be experiencing losses.
 
